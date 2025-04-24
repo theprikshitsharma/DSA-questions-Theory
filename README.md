@@ -1,4 +1,6 @@
 # Topics Covered :
-Advanced Sorting
-Binary Trees
-Sorting 
+## Advanced Sorting
+
+## Binary Trees
+
+## Sorting 
