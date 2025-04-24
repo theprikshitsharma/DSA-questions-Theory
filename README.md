@@ -1,2 +1,4 @@
-# DSA-questions-Theory
-DSA questions + Theory
+# Topics Covered :
+Advanced Sorting
+Binary Trees
+Sorting 
